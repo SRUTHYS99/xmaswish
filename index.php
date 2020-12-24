@@ -16,7 +16,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="4b31a5d1c8d3076c1e5eb997629b887e.gif" class="d-block w-100" alt="...">
+            <img src="4b31a5d1c8d3076c1e5eb997629b887e.gif" class="d-block w-100" alt="..." height="180" width="180">
           </div>
           <div class="carousel-item">
             <img src="images (2).jpeg" class="d-block w-100" alt="...">
